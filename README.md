@@ -8,4 +8,4 @@
 * Адаптивная вёрстка 
 * Все остальные знания и умения (*в совершенстве*)
 
-![good morning](blob:https://web.telegram.org/2a38b8ac-559d-49d0-874a-5b1e6f34d8f7)
+<img src= "file:///C:\Users\trave\OneDrive\Рабочий стол\Новая папка\image.jpg">
