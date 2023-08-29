@@ -8,4 +8,4 @@
 * Адаптивная вёрстка 
 * Все остальные знания и умения (*в совершенстве*)
 
-<img src= "file:///C:\Users\trave\OneDrive\Рабочий стол\Новая папка\image.jpg">
+![good morning](https://thumb.ac-illust.com/38/38b5a00146c9dcd17a766f779fe65db8_t.jpeg)
